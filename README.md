@@ -23,7 +23,7 @@ The calculator offers the following features:
 ## Usage
 To use the calculator, follow these steps:
 
-1. Open the index.html file in a web browser.
+1. Open the [Calculator](https://danieldribeiro.github.io/calculator/) file in a web browser.
 2. Use the numbered buttons from 0 to 9 to input numbers.
 3. Use operator buttons (+, -, *, /) to select the desired operation.
 4. Press the "." button to add a decimal point if needed.
